@@ -110,7 +110,6 @@ operational-analytics-dashboard/
 
 ## Screenshots / Demo
 ![Excel Dashboard Summary](assets/dashboard_summary.png)
-*(Note: Please save the provided screenshot as `assets/dashboard_summary.png` in the repository.)*
 
 ## Known Limitations
 - The pipeline currently uses a local SQLite database, which is not suitable for concurrent write operations or distributed production workloads.
