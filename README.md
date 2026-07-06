@@ -124,4 +124,4 @@ operational-analytics-dashboard/
 - Integrate a machine learning model (e.g., Isolation Forest in `utils.py`) to supplement statistical anomaly detection.
 
 ## Author
-GitHub Copilot (Refactored and Analyzed)
+Abhishek Pandey
