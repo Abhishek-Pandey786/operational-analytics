@@ -109,7 +109,8 @@ operational-analytics-dashboard/
 *N/A — Designed to run natively with local Python and SQLite.*
 
 ## Screenshots / Demo
-*(Placeholder for Power BI dashboard or Excel report screenshots)*
+![Excel Dashboard Summary](assets/dashboard_summary.png)
+*(Note: Please save the provided screenshot as `assets/dashboard_summary.png` in the repository.)*
 
 ## Known Limitations
 - The pipeline currently uses a local SQLite database, which is not suitable for concurrent write operations or distributed production workloads.
